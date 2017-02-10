@@ -1,0 +1,7 @@
+{
+  "metainfo": {},
+  "parameter": [{
+    "name": "geometry",
+    "value": "IowaCounties.kmz"
+    }]
+}
